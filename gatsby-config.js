@@ -16,6 +16,7 @@ module.exports = {
         name: `blog`,
       },
     },
+    'gatsby-plugin-netlify-identity-widget',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
